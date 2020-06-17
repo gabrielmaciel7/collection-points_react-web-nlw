@@ -1,6 +1,6 @@
 <h1 align="center"> Ecoleta - Collection Points (Front Web)</h1> 
 
-<h4 align="center"> This project was developed in the event Next Level Week (NLW) 1, organised by
+<h4 align="center"> This project was developed in the event Next Level Week (NLW) 1, organized by
 <a href="https://rocketseat.com.br/">Rocketseat</a>.
 </h4>
 
@@ -38,10 +38,10 @@
 <br>
 
 <h4> Server:
-<a href="https://github.com/gabrielmaciel7/collection-points_server-nlw">HERE</a>  
+<a href="https://github.com/gabrielmaciel7/collection-points_server-nlw">CLICK HERE</a>  
 </h4> 
 <h4> Mobile:
-<a href="https://github.com/gabrielmaciel7/collection-points-mobile-nlw">HERE</a>  
+<a href="https://github.com/gabrielmaciel7/collection-points-mobile-nlw">CLICK HERE</a>  
 </h4> 
 
 <br>
